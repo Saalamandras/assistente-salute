@@ -1,0 +1,21 @@
+# ⚠️  IMPORTANTE: .env contiene la API key — non committare mai questo file
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Gradio cache
+gradio_cached_examples/
+flagged/
