@@ -1,3 +1,14 @@
+---
+title: Assistente Salute
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.31.0"
+app_file: app.py
+pinned: false
+---
+
 # Assistente Salute 🏥
 
 **Chatbot AI di triage ortopedico in italiano — progetto portfolio**
